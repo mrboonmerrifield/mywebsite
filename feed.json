@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "matt",
+    "description": "",
+    "home_page_url": "https://mrboonmerrifield.github.io/mywebsite",
+    "feed_url": "https://mrboonmerrifield.github.io/mywebsite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "matt"
+    },
+    "items": [
+    ]
+}
